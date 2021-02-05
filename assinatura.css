@@ -1,0 +1,50 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #524092;
+}
+
+div.texto{
+    position: absolute;
+    top: 26%;
+    margin-left: 44%;
+    text-decoration: none;
+}
+
+#slogan{
+    font-size: 230%;
+    font-weight: 600;
+    text-decoration: none;
+    color: #524092;
+}
+
+#morada{
+    margin-top: ;
+    font-size: 160%;
+    font-weight: 400;
+    text-decoration: none;
+    color: #524092;
+}
+
+#site{
+    font-size: 160%;
+    font-weight: 400;
+    text-decoration: none;
+    color: #524092;
+}
+
+#tele{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 160%;
+    font-weight: 400;
+    text-decoration: none;
+    color: #524092;
+}
+
+#mail{
+    font-size: 160%;
+    font-weight: 400;
+    text-decoration: none;
+    color: #524092;
+}
